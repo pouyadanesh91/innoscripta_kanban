@@ -1,0 +1,64 @@
+{
+  "@@locale": "en",
+  "taskListAppBarTitle": "Flutter Todos",
+  "@taskListAppBarTitle": {
+    "description": "Title text shown in the AppBar of the Todos Overview Page"
+  },
+  "todosOverviewErrorSnackbarText": "Error",
+  "@todosOverviewErrorSnackbarText": {
+    "description": "Title text error"
+  },
+  "todosOverviewTodoDeletedSnackbarText": "task \"{taskTitle}\" deleted",
+  "@todosOverviewTodoDeletedSnackbarText": {
+    "description": "Title text deleted",
+    "placeholders": {
+      "taskTitle": {
+        "description": "The title of the task that was deleted"
+      }
+    }
+  },
+  "createOnDate": "Created on: ",
+  "@createOnDate": {
+    "description": "Title text deleted"
+  },
+  "todosOverviewEmptyText": "empty",
+  "@todosOverviewEmptyText": {
+    "description": "Title text empty"
+  },
+  "editTodoAddAppBarTitle": "Add Task",
+  "@editTodoAddAppBarTitle": {
+    "description": "Title text empty"
+  },
+  "editTodoEditAppBarTitle": "Edit Text",
+  "@editTodoEditAppBarTitle": {
+    "description": "Title text empty"
+  },
+  "editTodoSaveButtonTooltip": "Save",
+  "@editTodoSaveButtonTooltip": {
+    "description": "Title text empty"
+  },
+  "editTodoTitleLabel": "Edit",
+  "@editTodoTitleLabel": {
+    "description": "Title text empty"
+  },
+  "editTodoDescriptionLabel": "Description",
+  "@editTodoDescriptionLabel": {
+    "description": "Title text empty"
+  },
+  "todoAppBar": "To Do tasks",
+  "@todoAppBar": {
+    "description": "Title text empty"
+  },
+  "doingAppBar": "In Progress Tasks",
+  "@doingAppBar": {
+    "description": "Title text empty"
+  },
+  "doneAppBar": "Completed Tasks",
+  "@doneAppBar": {
+    "description": "Title text empty"
+  },
+  "timeTracking": "Time elapsed",
+  "@timeTracking": {
+    "description": "Time elapsed"
+  }
+}
