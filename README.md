@@ -1,6 +1,34 @@
 # task_board
 
-A new Flutter project.
+this is a kanban board with flutter written for Innoscripta home assignment
+
+# tech stack
+
+getIt: dependency injection
+
+bloc/cubit: state management
+
+clean architecture
+
+goRouter
+
+Freeze
+
+localization with intl
+
+to run the app you should clone this repository and then in your command line or terminal:
+
+`Flutter pub get`
+
+then just to be safe:
+
+`flutter pub run build_runner build`
+
+`flutter create .`
+
+and finally
+
+`flutter run`
 
 ## Getting Started
 
